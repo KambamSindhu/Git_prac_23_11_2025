@@ -4,9 +4,12 @@ Footer navigation
 Terms
 Privacy
 Security
-Status
-Community
-Docs
+ass Information
+Course Name	Zoom Link	Backup Videos	Workspace	Course Status
+Java Realtime Project				
+View Class Notes
+S.No	Topic Name	Class Notes	Backup Videos
+
 
 
 ------------CHANGES-------------------
