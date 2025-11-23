@@ -10,3 +10,12 @@ Docs
 
 
 ------------CHANGES-------------------
+Class Information
+Course Name	Zoom Link	Backup Videos	Workspace	Course Status
+Java Realtime Project				
+View Class Notes
+S.No	Topic Name	Class Notes	Backup Videos
+1	Git Hub Notes		Watch Video
+2	Software Industry Details		Watch Video
+3	JRTP Introduction Notes		Watch Video
+
